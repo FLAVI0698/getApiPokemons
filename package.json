@@ -1,5 +1,9 @@
 {
   "homepage": "https://flavi0698.github.io/getApiPokemons/",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/flavi0698/getApiPokemons.git"
+  },
   "name": "test-tecnico",
   "private": true,
   "version": "0.0.0",
